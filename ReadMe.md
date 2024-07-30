@@ -5,9 +5,6 @@
     <h1 align="center">SAMPLECOMPOSEDESKTOPAPP</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/kotlinoid/SampleComposeDesktopApp?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/kotlinoid/SampleComposeDesktopApp?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/kotlinoid/SampleComposeDesktopApp?style=flat&color=0080ff" alt="repo-top-language">
@@ -35,18 +32,6 @@
 > - [ Contributing](#-contributing)
 > - [ License](#-license)
 > - [ Acknowledgments](#-acknowledgments)
-
----
-
-##  Overview
-
-HTTP error 401 for prompt `overview`
-
----
-
-##  Features
-
-HTTP error 401 for prompt `features`
 
 ---
 
@@ -187,11 +172,6 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
 
 ##  Acknowledgments
 
